@@ -50,7 +50,7 @@ if magica:
     if suma_diag1 != suma_referencia or suma_diag2 != suma_referencia:
         magica = False
 
-print("RESULTADO:")
+print("\nRESULTADO:")
 if magica:
     print("La matriz es mágica.\n")
 else:
